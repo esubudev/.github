@@ -19,6 +19,11 @@ We focus on:
 
 ---
 
+## 👋 Sprint Review
+- 💡 Sprint Cal Speed https://docs.google.com/spreadsheets/d/1ehsjx9TewnI_cfAaekRo6j-bdaA4TYiS7TGDHBm35dU/edit?usp=sharing
+- 🌐 Miro Retrospective https://miro.com/app/board/uXjVMz_b1Zc=/
+
+---
 ## 📌 Featured Projects
 
 | Project | Description | Stars |
